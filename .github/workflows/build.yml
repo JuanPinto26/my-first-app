@@ -1,4 +1,4 @@
-mane: Build and docker image
+name: Build and docker image
 
 # Decide the trigger
 
